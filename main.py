@@ -192,3 +192,4 @@ map = TkinterMapView(root, width=500, height=400, corner_radius=0)
 map.place(x=500, y=45)
 
 root.mainloop()
+x
